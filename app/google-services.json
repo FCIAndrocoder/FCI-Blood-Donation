@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "295132812675",
+    "firebase_url": "https://fci-blood-donation.firebaseio.com",
+    "project_id": "fci-blood-donation",
+    "storage_bucket": "fci-blood-donation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295132812675:android:df772f216b4a1a4e",
+        "android_client_info": {
+          "package_name": "com.example.abdullahjubayer.bb2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295132812675-8qfqsv548rje25uq48s7bq90ol5k15ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abdullahjubayer.bb2",
+            "certificate_hash": "3c388beed2ea22033c3f6cd318d5e6f00c7d985d"
+          }
+        },
+        {
+          "client_id": "295132812675-c0mdmtmlg2fdqt402u452u0oj6ajtjl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOsGAEqywz47gl7IrsH50nH-C-eqxHqSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295132812675-c0mdmtmlg2fdqt402u452u0oj6ajtjl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
